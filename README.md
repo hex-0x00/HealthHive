@@ -22,10 +22,6 @@ Key Features:
 5. Reliable health guidance at your fingertips, whenever you need it.
 ```
 
-![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=#000000)
-
-**Blog article:** [SOS Animals app - a project for the Clerk x Hashnode Hackathon](https://yuridevat.hashnode.dev/sos-animals-hackathon-project)
-
 ![Thumbnail](https://github.com/YuriDevAT/sos-animals/blob/main/public/thumbnail-sos.png)
 
 The idea is that when reporting an animal, the user will start filling out a form
