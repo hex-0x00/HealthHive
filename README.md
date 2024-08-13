@@ -74,7 +74,7 @@ Before cloning/forking this project, make sure you have the following tools inst
 1. Fork the project
 2. Clone the project
 3. Follow the instructions in the console:
-4. Navigate to the project directory cd sos-animals
+4. Navigate to the project directory cd HealthHive
 5. Install the dependencies npm install
 6. Run the project npm start
 
@@ -82,6 +82,6 @@ Before cloning/forking this project, make sure you have the following tools inst
 
 [//]: contributor-faces
 
-<a href="https://github.com/YuriDevAT"><img src="https://avatars.githubusercontent.com/u/54622834?v=4" title="Julia Undeutsch" width="80" height="80"></a>
+<a href="https://github.com/IncredibleKaran"><img src="https://avatars.githubusercontent.com/u/170717826?s=400&u=62dc466d54935f34ecc9f8d66f920d4c225bdd94&v=4" title="Karan" width="80" height="80"></a>
 
 [//]: contributor-faces
