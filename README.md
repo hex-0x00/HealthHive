@@ -10,7 +10,7 @@
 
 ## 📃 Documentation
 
-Security research and documentation play a crucial role in safeguarding systems and data. Unlike many, I find joy in meticulously documenting security findings and protocols. A well-documented security approach is as vital as the implementation itself, serving as a narrative of potential vulnerabilities and their mitigation strategies. My go-to documentation tool is <a href="https://obsidian.md/" target="_blank">Obsidian.md</a>.
+Welcome to HealthHive, an open-source platform for AI-powered healthcare innovation and solutions!
 
 Key Features:
 
