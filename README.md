@@ -8,18 +8,24 @@
 | :-: | :-: |
 ![Banner](https://i.pinimg.com/originals/44/0f/fb/440ffbd5c0ffe14a296f7c99a5242ef0.gif) | ![Banner](https://pa1.aminoapps.com/6914/0b02b8eea6844d7ed54ba76f9dca9f9985605247r1-256-256_hq.gif)
 
-## 📃 Research and Documentation
+## 📃 Documentation
 
 Security research and documentation play a crucial role in safeguarding systems and data. Unlike many, I find joy in meticulously documenting security findings and protocols. A well-documented security approach is as vital as the implementation itself, serving as a narrative of potential vulnerabilities and their mitigation strategies. My go-to documentation tool is <a href="https://obsidian.md/" target="_blank">Obsidian.md</a>.
 
 Whenever I documenting security or any research, I try to keep in mind the following steps to make sure:
 
+
+
+
+
+
+
 ```markdown
-1. **What** is the vulnerability or security issue identified?
-2. **Why** is this security finding significant?
-3. **How** can stakeholders address and mitigate this security concern?
-4. **When** should these security measures be implemented or reviewed?
-5. **Who** are the stakeholders impacted by this security documentation?
+1. **HealthHive** Your friendly AI doctor for 24/7 health advice and support.
+2. **Get** personalized recommendations and symptom checking anytime, anywhere.
+3. **User-friendly** interface for all age groups, easy to use and navigate.
+4. **Secure and confidential** , your privacy is our top priority.
+5. **Reliable** health guidance at your fingertips, whenever you need it.
 ```
 
 ![Obsidian](https://img.shields.io/badge/-Obsidian-503D4D?style=flat&logo=obsidian&logoColor=#0078D6)
