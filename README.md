@@ -82,6 +82,8 @@ Before cloning/forking this project, make sure you have the following tools inst
 
 [//]: contributor-faces
 
-<a href="https://github.com/IncredibleKaran"><img src="https://avatars.githubusercontent.com/u/170717826?s=400&u=62dc466d54935f34ecc9f8d66f920d4c225bdd94&v=4" title="Karan" width="50" height="50"></a>
+<a href="https://github.com/IncredibleKaran"><img src="https://avatars.githubusercontent.com/u/170717826?s=400&u=62dc466d54935f34ecc9f8d66f920d4c225bdd94&v=4" title="Karan" width="80" height="80"></a>
+<a href="https://github.com/Dhvanitmonpara"><img src="https://avatars.githubusercontent.com/u/143581064?v=4" title="Dhvanit" width="80" height="80"></a>
+<a href="https://github.com/Sahil-Gupta584"><img src="https://avatars.githubusercontent.com/u/134826929?v=4" title="Sahil" width="80" height="80"></a>
 
 [//]: contributor-faces
