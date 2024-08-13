@@ -1,4 +1,83 @@
 # Description
+<table border="0" cellspacing="0" cellpadding="0">
+  
+  <tr>
+  </tr>
+</table>
+
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IncredibleKaran&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IncredibleKaran&hide=Html&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IncredibleKaran&theme=github_dark) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IncredibleKaran&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IncredibleKaran&theme=github_dark) |
+| :-: | :-: |
+
+### <p align=""> ‎ ‎ ‎ ‎Development Environment</p>
+
+> I grew up with Windows and have a special place in my heart for it. Its my go-to operating system for development. I enjoy using the Windows Subsystem for Linux (WSL) and the Windows Terminal. I also use <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank">PowerShell</a> configured with <a href="https://ohmyposh.dev/" target="_blank">Oh-My-Posh</a> for my terminal.
+
+<div class="table-devenvironment">
+  <table style="font-size: 11px">
+  <tr>
+  <td valign="top" width="50%">
+  
+  #### 🖥️ Windows Power User
+  
+  ![Windows](https://img.shields.io/badge/-Windows-503D4D?style=flat&logo=windows&logoColor=#0078D6)
+  ![PowerShell](https://img.shields.io/badge/-PowerShell-000000?style=flat&logo=powershell&logoColor=#5391FE)
+  ![WSL](https://img.shields.io/badge/-WSL-000000?style=flat&logo=windows-subsystem-for-linux&logoColor=#FCC624)
+  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+  
+  
+  </td>
+  <td valign="top" width="50%">
+
+  
+  #### 🐧 Linux Enthusiast
+  
+  I love working with Linux and Im always exploring new things in the vast open-source world.
+  
+  ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=#FCC624)
+  ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000000?style=flat&logo=ubuntu&logoColor=#E95420)
+  ![Debian](https://img.shields.io/badge/-Debian-000000?style=flat&logo=debian&logoColor=#A81D33)
+  ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-000000?style=flat&logo=arch-linux&logoColor=#1793D1)
+  ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-000000?style=flat&logo=kali-linux&logoColor=#557C94)
+  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+
+  
+  </td>
+  </tr>
+  </table>
+</div>
+<div class="github-introduction">
+
+![Banner](https://github.com/IncredibleKaran/IncredibleKaran/blob/main/Banner.gif)
+![Profile views](https://komarev.com/ghpvc/?username=IncredibleKaran&label=Profile%20views&color=60598F&style=flat)
+
+<div class="github-introduction">
+
+## ✍ My Enthusiasms
+
+I'm a **Full Stack Dev** passionate about bringing innovative ideas to life. Growing up in the 2003s, I developed a deep love for the internet and technology. My expertise spans security, cross-platform software, Mobile & Web application development, ensuring my projects are **fast**, **responsive**, and **accessible to everyone**. Additionally, I have a nostalgic appreciation for the 90's web design aesthetic and enjoy incorporating its unique charm into modern designs. I think it was cool. 😎
+
+</div>
+
+
+## 📃 Research and Documentation
+
+Security research and documentation play a crucial role in safeguarding systems and data. Unlike many, I find joy in meticulously documenting security findings and protocols. A well-documented security approach is as vital as the implementation itself, serving as a narrative of potential vulnerabilities and their mitigation strategies. My go-to documentation tool is <a href="https://obsidian.md/" target="_blank">Obsidian.md</a>.
+
+Whenever I documenting security or any research, I try to keep in mind the following steps to make sure:
+
+```markdown
+1. **What** is the vulnerability or security issue identified?
+2. **Why** is this security finding significant?
+3. **How** can stakeholders address and mitigate this security concern?
+4. **When** should these security measures be implemented or reviewed?
+5. **Who** are the stakeholders impacted by this security documentation?
+```
+
+![Obsidian](https://img.shields.io/badge/-Obsidian-503D4D?style=flat&logo=obsidian&logoColor=#0078D6)
+![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=#000000)
 
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 
