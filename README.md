@@ -12,13 +12,7 @@
 
 Security research and documentation play a crucial role in safeguarding systems and data. Unlike many, I find joy in meticulously documenting security findings and protocols. A well-documented security approach is as vital as the implementation itself, serving as a narrative of potential vulnerabilities and their mitigation strategies. My go-to documentation tool is <a href="https://obsidian.md/" target="_blank">Obsidian.md</a>.
 
-Whenever I documenting security or any research, I try to keep in mind the following steps to make sure:
-
-
-
-
-
-
+Key Features:
 
 ```markdown
 1. HealthHive Your friendly AI doctor for 24/7 health advice and support.
