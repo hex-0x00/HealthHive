@@ -71,7 +71,7 @@ Before cloning/forking this project, make sure you have the following tools inst
 2. Clone the project
 3. Follow the instructions in the console:
 4. Navigate to the project directory cd HealthHive
-5. Install the dependencies npm install
+5. Install the dependencies npm i
 6. Run the project npm start
 
 ## Contributors
