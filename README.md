@@ -1,10 +1,9 @@
 # Description
 <table border="0" cellspacing="0" cellpadding="0">
-  
+  ![Banner](https://i.pinimg.com/originals/44/0f/fb/440ffbd5c0ffe14a296f7c99a5242ef0.gif)
   <tr>
   </tr>
 </table>
-![Banner](https://i.pinimg.com/originals/44/0f/fb/440ffbd5c0ffe14a296f7c99a5242ef0.gif)
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IncredibleKaran&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IncredibleKaran&theme=github_dark) |
 | :-: | :-: |
 
