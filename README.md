@@ -24,16 +24,6 @@ Key Features:
 
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=#000000)
 
-[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
-
-This app will help abandoned animals get help from Animal welfare organizations
-all over the world when people reporting them via this app.
-This project was initally created to participate in my first hackathon - Clerk
-x Hashnode Hackathon July 2021. Check out [my article](https://yuridevat.hashnode.dev/sos-animals-hackathon-project)
-about the project and my experience in the hackathon.
-
-🏆 This project was one of the Runner Up Winners. 🥳
-
 **Blog article:** [SOS Animals app - a project for the Clerk x Hashnode Hackathon](https://yuridevat.hashnode.dev/sos-animals-hackathon-project)
 
 ![Thumbnail](https://github.com/YuriDevAT/sos-animals/blob/main/public/thumbnail-sos.png)
