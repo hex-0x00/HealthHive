@@ -26,14 +26,8 @@ Whenever I documenting security or any research, I try to keep in mind the follo
 3. User-friendly interface for all age groups, easy to use and navigate.
 4. Secure and confidential, your privacy is our top priority.
 5. Reliable health guidance at your fingertips, whenever you need it.
-1. **HealthHive**: Your friendly **AI doctor** for 24/7 **health advice** and **support**.
-2. Get **personalized recommendations** and **symptom checking** anytime, anywhere.
-3. **User-friendly interface** for all age groups, easy to use and navigate.
-4. **Secure** and **confidential**, your **privacy** is our top priority.
-5. Reliable **health guidance** at your fingertips, whenever you need it.
 ```
 
-![Obsidian](https://img.shields.io/badge/-Obsidian-503D4D?style=flat&logo=obsidian&logoColor=#0078D6)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=#000000)
 
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
