@@ -5,9 +5,6 @@
   </tr>
 </table>
 
-| ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IncredibleKaran&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IncredibleKaran&hide=Html&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IncredibleKaran&theme=github_dark) |
-| :-: | :-: | :-: |
-
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IncredibleKaran&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IncredibleKaran&theme=github_dark) |
 | :-: | :-: |
 
