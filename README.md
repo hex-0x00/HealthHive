@@ -1,6 +1,5 @@
 # Description
 <table border="0" cellspacing="0" cellpadding="0">
-  ![Banner](https://i.pinimg.com/originals/44/0f/fb/440ffbd5c0ffe14a296f7c99a5242ef0.gif)
   <tr>
   </tr>
 </table>
