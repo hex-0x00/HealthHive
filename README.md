@@ -5,7 +5,7 @@
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IncredibleKaran&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IncredibleKaran&theme=github_dark) |
 | :-: | :-: |
-![Banner](https://i.pinimg.com/originals/44/0f/fb/440ffbd5c0ffe14a296f7c99a5242ef0.gif) | ![Banner](https://i0.wp.com/math.ucr.edu/home/baez/24-cell.gif)
+![Banner](https://i.pinimg.com/originals/44/0f/fb/440ffbd5c0ffe14a296f7c99a5242ef0.gif) | ![Banner](https://pa1.aminoapps.com/6914/0b02b8eea6844d7ed54ba76f9dca9f9985605247r1-256-256_hq.gif)
 
 ### <p align=""> ‎ ‎ ‎ ‎Development Environment</p>
 
