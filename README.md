@@ -1,114 +1,63 @@
-<br />
-<div align="center">
-  <a href="https://ai-health-assistant-lovat.vercel.app/" alt='logo' >
-    <img src="/frontend//src/assets/WhatsApp Image 2024-06-30 at 22.04.44_27e44073.jpg" alt="Logo" width="260">
-  </a>
+# Description
 
-<h3 align="center">Dr.Bot : Your friendly AI doctor for 24/7 health advice and support.</h3>
-<div align="center">
+[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 
-<p align="center">
-Welcome to Dr. Bot, your friendly healthcare chatbot! Dr. Bot is designed to provide reliable, personalized health advice and support 24/7. Whether you have questions about symptoms, need wellness tips, or seek general medical advice, Dr. Bot is here to help.
-  </p>
-</div>
-    <a href="https://ai-health-assistant-lovat.vercel.app/"><strong>View Demo »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/Dhvanitmonpara/ai-health-assistant/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/Dhvanitmonpara/ai-health-assistant/issues">Request Feature</a>
-  </p>
-</div>
+This app will help abandoned animals get help from Animal welfare organizations
+all over the world when people reporting them via this app.
+This project was initally created to participate in my first hackathon - Clerk
+x Hashnode Hackathon July 2021. Check out [my article](https://yuridevat.hashnode.dev/sos-animals-hackathon-project)
+about the project and my experience in the hackathon.
 
-## Technologies Used 🚀
+🏆 This project was one of the Runner Up Winners. 🥳
 
-<br />
+**Blog article:** [SOS Animals app - a project for the Clerk x Hashnode Hackathon](https://yuridevat.hashnode.dev/sos-animals-hackathon-project)
 
-<div>
-    <img height="50" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Git" title="Git" /> 
-  <img height="50" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Git" title="Git" /> 
-  <img height="50" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="Git" title="Git" /> 
-  <img height="50" src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" title="NPM" /> 
-  <img height="50" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="GIT" title="GIT" /> 
-  <img height="50" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" title="Vercel" /> 
-  <img height="50" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github" title="Github" /> 
-  <img height="50" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="Github" title="Github" /> 
-  <img height="50" src="https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" alt="Github" title="Github" /> 
-    </div>
+![Thumbnail](https://github.com/YuriDevAT/sos-animals/blob/main/public/thumbnail-sos.png)
 
-<br />
+The idea is that when reporting an animal, the user will start filling out a form
+about the animal's situation and location.
+If people want to leave their contact information in the last stage, this should
+give them the possibility to stay connected with the NGOs and get information
+about the condition of the animal.
+When submitting the form, the form should be sent to the nearest NGO station.
 
-## Features
+To participate in the Hackathon, it was a requirement to implement Clerk
+Authantication, but it was finally removed because no authantication should be
+necessary to use the app, to make sure to help the animal as fast as possible.
 
-- **24/7 Availability**: Get health advice anytime, anywhere.
-- **Personalized Support**: Tailored recommendations based on user input.
-- **Symptom Checker**: Quickly assess symptoms and get guidance.
-- **Wellness Tips**: Daily tips to maintain and improve your health.
-- **User-Friendly Interface**: Simple and intuitive design for all age groups.
-- **Secure and Confidential**: Your privacy is our priority.
+## Demo
+
+Live view by clicking the badge: [![Netlify Status](https://api.netlify.com/api/v1/badges/f9a7f8d3-58ca-44ed-a038-ae8d2efd31a5/deploy-status)](https://sos-animal.netlify.app/)
+
+You can also clone the project and open it in localhost, or enjoy the preview
+video below instead :smile:
+
+https://user-images.githubusercontent.com/54622834/127658950-b1964a1c-dfc3-4853-be04-9c14a35f569c.mov
+
+# Contribution
+
+To contribute to this project please check out the [contribution guidelines](https://github.com/YurisCodingClub/accessibility-mentor/blob/main/CONTRIBUTING.md).
+
+## Prerequisits
+
+Before cloning/forking this project, make sure you have the following tools installed:
+
+- [Git](https://git-scm.com/downloads)
+- [NodeJS](https://nodejs.org/en/download/)
 
 ## Installation
 
-To get a local copy up and running follow these simple steps:
+1. Fork the project
+2. Clone the project
+3. Follow the instructions in the console:
+4. Navigate to the project directory cd sos-animals
+5. Install the dependencies npm install
+6. Run the project npm start
 
-### Prerequisites
+## Contributors
 
-- Node.js and npm installed. You can download them <a href="https://nodejs.org/" target="_blank">here</a>.
+[//]: contributor-faces
 
-### Installation
+<a href="https://github.com/YuriDevAT"><img src="https://avatars.githubusercontent.com/u/54622834?v=4" title="Julia Undeutsch" width="80" height="80"></a>
 
-1. Clone the repo
-   
-   ```sh
-   git clone https://github.com/your_username/Dr. Bot.git
-   ```
-2. Install NPM packages
-   
-   ```sh
-   npm install
-   ```
-3. Run the application
-   
-   ```sh
-   npm run dev
-   ```
-
-## Usage
-
-Once the application is running, you can access Dr. Bot via `http://localhost:5173` in your web browser.
-
-- **Chat with Dr. Bot**: Start a conversation by typing your health-related question.
-- **Symptom Checker**: Use the symptom checker tool for quick assessments.
-- **Wellness Tips**: Access daily wellness tips from the main menu.
-
-## Contributing
-
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## License
-
-Distributed under the MIT License. See [`LICENSE`](https://legal-engineering.mit.edu/contributing-our-open-source-projects) for more information.
-
-## Contact
-
-Your Name - [@DhvanitMonpara](https://x.com/DhvanitMonpara/) - monparadhvanit@gmail.com
-
-Project Link: <a href="https://github.com/Dhvanitmonpara/ai-health-assistant" target="_blank">https://github.com/Dhvanitmonpara/ai-health-assistant</a>
-
-## Acknowledgements
-
-- <a href="https://nodejs.org/" target="_blank">Node.js</a>
-- <a href="https://reactjs.org/" target="_blank">React</a>
-- <a href="https://getbootstrap.com/" target="_blank">Bootstrap</a>
-- <a href="https://www.openai.com/" target="_blank">Gemini</a>
-- <a href="https://fontawesome.com/" target="_blank">Font Awesome</a>
-
----
-
-Feel free to customize this README with your specific details and screenshots. Let me know if you need any adjustments!
+[//]: contributor-faces
