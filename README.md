@@ -58,10 +58,6 @@ video below instead :smile:
 
 https://user-images.githubusercontent.com/54622834/127658950-b1964a1c-dfc3-4853-be04-9c14a35f569c.mov
 
-# Contribution
-
-To contribute to this project please check out the [contribution guidelines](https://github.com/YurisCodingClub/accessibility-mentor/blob/main/CONTRIBUTING.md).
-
 ## Prerequisits
 
 Before cloning/forking this project, make sure you have the following tools installed:
