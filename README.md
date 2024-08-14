@@ -24,16 +24,13 @@ Key Features:
 
 ![Thumbnail](https://github.com/YuriDevAT/sos-animals/blob/main/public/thumbnail-sos.png)
 
-The idea is that when reporting an animal, the user will start filling out a form
-about the animal's situation and location.
-If people want to leave their contact information in the last stage, this should
-give them the possibility to stay connected with the NGOs and get information
-about the condition of the animal.
-When submitting the form, the form should be sent to the nearest NGO station.
+Welcome to HealthHive, a groundbreaking healthcare AI chatbot model that revolutionizes the way we approach medical care and support. Our cutting-edge technology empowers individuals to take control of their health and wellness, providing instant access to personalized guidance, resources, and connections to healthcare professionals.
 
-To participate in the Hackathon, it was a requirement to implement Clerk
-Authantication, but it was finally removed because no authantication should be
-necessary to use the app, to make sure to help the animal as fast as possible.
+Our AI-powered chatbot is designed to simulate human-like conversations, offering a compassionate and non-judgmental space for users to discuss their health concerns, ask questions, and receive tailored advice. With a vast knowledge base and machine learning capabilities, our chatbot stays current with the latest medical research and guidelines, ensuring users receive accurate and reliable information.
+
+We prioritize user experience, designing our chatbot to be intuitive, accessible, and confidential. This ensures a comfortable and secure experience for all users. By harnessing AI technology, we aim to bridge the gap in healthcare access, provide emotional support, and foster a community of empowered individuals taking charge of their health.
+
+Join our mission to transform healthcare and experience the future of medical support today.
 
 ## Demo
 
