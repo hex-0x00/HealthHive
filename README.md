@@ -34,7 +34,7 @@ Join our mission to transform healthcare and experience the future of medical su
 
 ## Demo
 
-Live view by clicking the badge: [![Netlify Status](https://api.netlify.com/api/v1/badges/f9a7f8d3-58ca-44ed-a038-ae8d2efd31a5/deploy-status)](https://sos-animal.netlify.app/)
+Live view by clicking the badge: [![Netlify Status](https://api.netlify.com/api/v1/badges/fd8904f8-33f7-45a9-93af-a8640f9c8acd/deploy-status)](https://app.netlify.com/sites/healthhivee/deploys)
 
 You can also clone the project and open it in localhost, or enjoy the preview
 video below instead :smile:
