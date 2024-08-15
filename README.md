@@ -22,7 +22,7 @@ Key Features:
 5. Reliable health guidance at your fingertips, whenever you need it.
 ```
 
-![Thumbnail](https://github.com/YuriDevAT/sos-animals/blob/main/public/thumbnail-sos.png)
+![Thumbnail](thumbnail.png)
 
 HealthHive, a groundbreaking healthcare AI chatbot model that revolutionizes the way we approach medical care and support. Our cutting-edge technology empowers individuals to take control of their health and wellness, providing instant access to personalized guidance, resources, and connections to healthcare professionals.
 
