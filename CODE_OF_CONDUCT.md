@@ -1,6 +1,6 @@
 # HealthHive Code of Conduct
 
-##Introduction
+## Introduction
 
 HealthHive is an open-source project dedicated to creating a healthcare platform. We are committed to fostering an inclusive and welcoming community for all contributors, users, and maintainers.
 
