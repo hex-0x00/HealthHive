@@ -1,4 +1,4 @@
-# Contributor Covenant Code of Conduct
+# HealthHive Code of Conduct
 
 ## Our Pledge
 
