@@ -15,7 +15,7 @@ Welcome to HealthHive, an open-source platform for AI-powered healthcare innovat
 Key Features:
 
 ```markdown
-1. HealthHive Your friendly AI doctor for 24/7 health advice and support.
+1. HealthHive Your friendly AI doctor for 24/7 health advice & support.
 2. Get personalized recommendations and symptom checking anytime, anywhere.
 3. User-friendly interface for all age groups, easy to use and navigate.
 4. Secure and confidential, your privacy is our top priority.
